@@ -1,0 +1,253 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",001 QUATRO TV
+http://161.132.198.222:8000/play/a001
+#EXTINF:0 tvg-id="ext" group-title="Channels",006 PUEBLO TV
+http://161.132.198.222:8000/play/a005
+#EXTINF:0 tvg-id="ext" group-title="Channels",008 PERU MAGICO
+http://161.132.198.222:8000/play/a006
+#EXTINF:0 tvg-id="ext" group-title="Channels",009 PANAMERICANA HD
+http://161.132.198.222:8000/play/a007
+#EXTINF:0 tvg-id="ext" group-title="Channels",010 IPE TV
+http://161.132.198.222:8000/play/a008
+#EXTINF:0 tvg-id="ext" group-title="Channels",011 AMERICA TV HD
+http://161.132.198.222:8000/play/a009
+#EXTINF:0 tvg-id="ext" group-title="Channels",012 ATV HD
+http://161.132.198.222:8000/play/a00a
+#EXTINF:0 tvg-id="ext" group-title="Channels",013 LATINA HD
+http://161.132.198.222:8000/play/a00b
+#EXTINF:0 tvg-id="ext" group-title="Channels",014 GLOBAL HD
+http://161.132.198.222:8000/play/a00c
+#EXTINF:0 tvg-id="ext" group-title="Channels",015 ATV SUR HD
+http://161.132.198.222:8000/play/a00d
+#EXTINF:0 tvg-id="ext" group-title="Channels",016 TV PERU HD
+http://161.132.198.222:8000/play/a00e
+#EXTINF:0 tvg-id="ext" group-title="Channels",017 LA TELE HD
+http://161.132.198.222:8000/play/a00f
+#EXTINF:0 tvg-id="ext" group-title="Channels",018 WILLAX HD
+http://161.132.198.222:8000/play/a00g
+#EXTINF:0 tvg-id="ext" group-title="Channels",019 EXITOSA HD
+http://161.132.198.222:8000/play/a00h
+#EXTINF:0 tvg-id="ext" group-title="Channels",020 ATV+ HD
+http://161.132.198.222:8000/play/a00i
+#EXTINF:0 tvg-id="ext" group-title="Channels",021 TV PERU NOTICIAS
+http://161.132.198.222:8000/play/a00j
+#EXTINF:0 tvg-id="ext" group-title="Channels",022 USMP TV HD
+http://161.132.198.222:8000/play/a00k
+#EXTINF:0 tvg-id="ext" group-title="Channels",024 Nick JR
+http://161.132.198.222:8000/play/a00m
+#EXTINF:0 tvg-id="ext" group-title="Channels",025 Baby TV
+http://161.132.198.222:8000/play/a00n
+#EXTINF:0 tvg-id="ext" group-title="Channels",026 Zoo Moo
+http://161.132.198.222:8000/play/a00o
+#EXTINF:0 tvg-id="ext" group-title="Channels",027 Disney Jr
+http://161.132.198.222:8000/play/a00p
+#EXTINF:0 tvg-id="ext" group-title="Channels",028 ETC
+http://161.132.198.222:8000/play/a00q
+#EXTINF:0 tvg-id="ext" group-title="Channels",029 Disney Channel
+http://161.132.198.222:8000/play/a00r
+#EXTINF:0 tvg-id="ext" group-title="Channels",030 Cartoon Network HD
+http://161.132.198.222:8000/play/a00s
+#EXTINF:0 tvg-id="ext" group-title="Channels",031 Cartoonito
+http://161.132.198.222:8000/play/a00t
+#EXTINF:0 tvg-id="ext" group-title="Channels",032 Tooncast
+http://161.132.198.222:8000/play/a00u
+#EXTINF:0 tvg-id="ext" group-title="Channels",033 Nickelodeon HD
+http://161.132.198.222:8000/play/a00v
+#EXTINF:0 tvg-id="ext" group-title="Channels",034 Mas Chic
+http://161.132.198.222:8000/play/a00w
+#EXTINF:0 tvg-id="ext" group-title="Channels",035 Las Estrellas
+http://161.132.198.222:8000/play/a00y
+#EXTINF:0 tvg-id="ext" group-title="Channels",036 TL Novelas
+http://161.132.198.222:8000/play/a00x
+#EXTINF:0 tvg-id="ext" group-title="Channels",038 El Gourmet
+http://161.132.198.222:8000/play/a010
+#EXTINF:0 tvg-id="ext" group-title="Channels",041 Nat Geo HD
+http://161.132.198.222:8000/play/a012
+#EXTINF:0 tvg-id="ext" group-title="Channels",042 HGTV
+http://161.132.198.222:8000/play/a013
+#EXTINF:0 tvg-id="ext" group-title="Channels",043 Discovery ID HD
+http://161.132.198.222:8000/play/a014
+#EXTINF:0 tvg-id="ext" group-title="Channels",044 Travel & Living
+http://161.132.198.222:8000/play/a015
+#EXTINF:0 tvg-id="ext" group-title="Channels",045 Love Nature
+http://161.132.198.222:8000/play/a017
+#EXTINF:0 tvg-id="ext" group-title="Channels",046 Animal Planet HD
+http://161.132.198.222:8000/play/a018
+#EXTINF:0 tvg-id="ext" group-title="Channels",058 Studio Universal HD
+http://161.132.198.222:8000/play/a01c
+#EXTINF:0 tvg-id="ext" group-title="Channels",059 Space HD
+http://161.132.198.222:8000/play/a01d
+#EXTINF:0 tvg-id="ext" group-title="Channels",060 AMC HD
+http://161.132.198.222:8000/play/a01e
+#EXTINF:0 tvg-id="ext" group-title="Channels",061 TBS
+http://161.132.198.222:8000/play/a01f
+#EXTINF:0 tvg-id="ext" group-title="Channels",062 TCM
+http://161.132.198.222:8000/play/a01g
+#EXTINF:0 tvg-id="ext" group-title="Channels",063 De Pelicula
+http://161.132.198.222:8000/play/a01h
+#EXTINF:0 tvg-id="ext" group-title="Channels",064 DHE HD
+http://161.132.198.222:8000/play/a01i
+#EXTINF:0 tvg-id="ext" group-title="Channels",065 TNT Series HD
+http://161.132.198.222:8000/play/a01j
+#EXTINF:0 tvg-id="ext" group-title="Channels",066 ISAT
+http://161.132.198.222:8000/play/a01k
+#EXTINF:0 tvg-id="ext" group-title="Channels",067 STAR Channel HD
+http://161.132.198.222:8000/play/a01l
+#EXTINF:0 tvg-id="ext" group-title="Channels",068 FX HD
+http://161.132.198.222:8000/play/a01m
+#EXTINF:0 tvg-id="ext" group-title="Channels",069 Universal
+http://161.132.198.222:8000/play/a01n
+#EXTINF:0 tvg-id="ext" group-title="Channels",070 SyFy HD
+http://161.132.198.222:8000/play/a01o
+#EXTINF:0 tvg-id="ext" group-title="Channels",071 Comedy Central HD
+http://161.132.198.222:8000/play/a01p
+#EXTINF:0 tvg-id="ext" group-title="Channels",072 Tru TV
+http://161.132.198.222:8000/play/a01q
+#EXTINF:0 tvg-id="ext" group-title="Channels",073 Glitz
+http://161.132.198.222:8000/play/a01r
+#EXTINF:0 tvg-id="ext" group-title="Channels",074 Telemundo HD
+http://161.132.198.222:8000/play/a01s
+#EXTINF:0 tvg-id="ext" group-title="Channels",075 CNN
+http://161.132.198.222:8000/play/a01t
+#EXTINF:0 tvg-id="ext" group-title="Channels",076 Telesur
+http://161.132.198.222:8000/play/a01u
+#EXTINF:0 tvg-id="ext" group-title="Channels",077 France 24
+http://161.132.198.222:8000/play/a01v
+#EXTINF:0 tvg-id="ext" group-title="Channels",078 RT HD
+http://161.132.198.222:8000/play/a02x
+#EXTINF:0 tvg-id="ext" group-title="Channels",079 MTV 80s
+http://161.132.198.222:8000/play/a01w
+#EXTINF:0 tvg-id="ext" group-title="Channels",080 HTV
+http://161.132.198.222:8000/play/a01x
+#EXTINF:0 tvg-id="ext" group-title="Channels",083 GogoPlay TV
+http://161.132.198.222:8000/play/a02v
+#EXTINF:0 tvg-id="ext" group-title="Channels",084 rtp HD
+http://161.132.198.222:8000/play/a02w
+#EXTINF:0 tvg-id="ext" group-title="Channels",085 EWTN
+http://161.132.198.222:8000/play/a01y
+#EXTINF:0 tvg-id="ext" group-title="Channels",086 Bethel HD
+http://161.132.198.222:8000/play/a01z
+#EXTINF:0 tvg-id="ext" group-title="Channels",087 Enlace
+http://161.132.198.222:8000/play/a02u
+#EXTINF:0 tvg-id="ext" group-title="Channels",089 Univision HD
+http://161.132.198.222:8000/play/a020
+#EXTINF:0 tvg-id="ext" group-title="Channels",090 AZ Corazon
+http://161.132.198.222:8000/play/a021
+#EXTINF:0 tvg-id="ext" group-title="Channels",091 RCN Novelas
+http://161.132.198.222:8000/play/a022
+#EXTINF:0 tvg-id="ext" group-title="Channels",092 Lifetime
+http://161.132.198.222:8000/play/a023
+#EXTINF:0 tvg-id="ext" group-title="Channels",094 History HD
+http://161.132.198.222:8000/play/a024
+#EXTINF:0 tvg-id="ext" group-title="Channels",096 Discovery Theather HD
+http://161.132.198.222:8000/play/a025
+#EXTINF:0 tvg-id="ext" group-title="Channels",097 Discovery World HD
+http://161.132.198.222:8000/play/a026
+#EXTINF:0 tvg-id="ext" group-title="Channels",098 Discovery Turbo
+http://161.132.198.222:8000/play/a027
+#EXTINF:0 tvg-id="ext" group-title="Channels",099 Discovery Science
+http://161.132.198.222:8000/play/a028
+#EXTINF:0 tvg-id="ext" group-title="Channels",100 Warner Channel HD
+http://161.132.198.222:8000/play/a029
+#EXTINF:0 tvg-id="ext" group-title="Channels",101 Sony HD
+http://161.132.198.222:8000/play/a02a
+#EXTINF:0 tvg-id="ext" group-title="Channels",102 AXN HD
+http://161.132.198.222:8000/play/a02b
+#EXTINF:0 tvg-id="ext" group-title="Channels",104 Sony Movies HD
+http://161.132.198.222:8000/play/a02c
+#EXTINF:0 tvg-id="ext" group-title="Channels",105 Cinemax
+http://161.132.198.222:8000/play/a02d
+#EXTINF:0 tvg-id="ext" group-title="Channels",106 HBO HD
+http://161.132.198.222:8000/play/a02e
+#EXTINF:0 tvg-id="ext" group-title="Channels",107 HBO 2
+http://161.132.198.222:8000/play/a02f
+#EXTINF:0 tvg-id="ext" group-title="Channels",108 HBO Family HD
+http://161.132.198.222:8000/play/a02g
+#EXTINF:0 tvg-id="ext" group-title="Channels",109 HBO Exreme HD
+http://161.132.198.222:8000/play/a02h
+#EXTINF:0 tvg-id="ext" group-title="Channels",110 HBO Plus
+http://161.132.198.222:8000/play/a02i
+#EXTINF:0 tvg-id="ext" group-title="Channels",111 Universal Cinema HD
+http://161.132.198.222:8000/play/a02j
+#EXTINF:0 tvg-id="ext" group-title="Channels",112 Unviersal Comedy HD
+http://161.132.198.222:8000/play/a02k
+#EXTINF:0 tvg-id="ext" group-title="Channels",113 Universal Premiere HD
+http://161.132.198.222:8000/play/a02l
+#EXTINF:0 tvg-id="ext" group-title="Channels",114 Universal Crime HD
+http://161.132.198.222:8000/play/a02m
+#EXTINF:0 tvg-id="ext" group-title="Channels",115 Multipremiere
+http://161.132.198.222:8000/play/a02n
+#EXTINF:0 tvg-id="ext" group-title="Channels",116 Multicinema
+http://161.132.198.222:8000/play/a02o
+#EXTINF:0 tvg-id="ext" group-title="Channels",118 Europa HD
+http://161.132.198.222:8000/play/a02q
+#EXTINF:0 tvg-id="ext" group-title="Channels",119 A&E Mundo HD
+http://161.132.198.222:8000/play/a02r
+#EXTINF:0 tvg-id="ext" group-title="Channels",121 Tigo Sports HD
+http://161.132.198.222:8000/play/a02s
+#EXTINF:0 tvg-id="ext" group-title="Channels",122 EXA TV
+http://161.132.198.222:8000/play/a02t
+#EXTINF:0 tvg-id="ext" group-title="Channels",AsiriTV (Lima) (720p) [Not 24/7]
+https://video2.lhdserver.es/asiritv/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ATV (480p) [Not 24/7]
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/HasBahCa.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ATV+ Noticias (480p) [Not 24/7]
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/HasBahCa.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bethel TV (720p) [Not 24/7]
+https://ott.streann.com/loadbalancer/services/public/channels/5e0689c82cdcb4fdbcd79151/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Channels",Canal 24 Horas Peru | HD
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/24HORAS/live
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL IPE (460p) [Not 24/7]
+https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Chicos IPe (460p) [Not 24/7]
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ClipsTV (Ica) (360p) [Not 24/7]
+https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CNC Digital (Iquitos) (480p) [Not 24/7]
+https://cloudvideo.servers10.com:8081/8150/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cultura 24 (720p)
+https://vs8.live.opencaster.com/cultura24/smil:cultura24/HasBahCa.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DW NOTICIAS
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DW NOTICIAS
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamHasBahCa.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",HISPANTV
+https://live.presstv.ir/live/smil:live.smil/chunklist_w1002567934_b644100_slen.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Identidad TV (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/HasBahCa.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Impacto Televisión (Cajamarca) (720p)
+https://eu1.servers10.com:8081/impactotv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Imperial Televisión (Huancayo) (540p) [Not 24/7]
+https://stmv.panel.grupolimalive.com/imperu/imperu/HasBahCa.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",La Luz TV (720p) [Not 24/7]
+http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Latina Peru
+http://tvpremiumhd.club/lista-gratuita/180709/on/lives.php?id=cdnimg-latina-pe.secure.footprint.net/latina_web/no_disponible/formats/playlist_all.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",LotPlus TV (Chiclayo) (720p) [Not 24/7]
+https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/HasBahCa.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MINEDU IPTV 1 (320p) [Not 24/7]
+http://iptv.perueduca.pe:1935/canal1/canal11/HasBahCa.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MINEDU IPTV 2 (320p) [Not 24/7]
+http://iptv.perueduca.pe:1935/canal2/canal22/HasBahCa.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NacionalTV (360p) [Not 24/7]
+https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/HasBahCa.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Oriental TV 21 (Pucallpa) (720p) [Not 24/7]
+https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/HasBahCa.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pax TV (480p) [Not 24/7]
+https://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/HasBahCa.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Perú Channel (720p) [Not 24/7]
+https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/HasBahCa.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Radio Rutas del Perú (360p) [Not 24/7]
+https://tv.portalexpress.es:3731/stream/play.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RadioInka (Abancay) (272p) [Not 24/7]
+https://tv.portalexpress.es:3175/hybrid/play.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sumac TV (Lima) (270p) [Not 24/7]
+https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Turbo Mix Radio TV (480p) [Not 24/7]
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Perú [Not 24/7]
+https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Perú Noticias [Not 24/7]
+http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",VamisaTV (Lima) (480p) [Not 24/7]
+https://vps1.lnx.pe/vamisa/envivo/index.m3u8
